@@ -1,3 +1,12 @@
 build/
 sdkconfig
 sdkconfig.old
+
+# IDE and development environment
+.vscode/
+.devcontainer/
+.clangd
+*.swp
+*.swo
+*~
+.DS_Store
